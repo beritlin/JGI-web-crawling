@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to JGI-web-crawling </h1>
 <p align="center">
   <a>
-    <img alt="date" src="https://img.shields.io/github/last-commit/:user/:repo" target="_blank" />
+    <img alt="date" src="https://img.shields.io/github/last-commit/berit/JGI-web-crawling" target="_blank" />
   </a>
   <a>
     <img alt="status" src="https://img.shields.io/badge/status-done-lightgrey.svg" target="_blank" />
