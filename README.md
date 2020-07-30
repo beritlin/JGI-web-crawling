@@ -12,6 +12,7 @@
 # JGI-web-crawling
 
 The downloaded fungal genome data from [JGI](http://jgi.doe.gov/) contain only abbreviational species names.
+</br> 
 To get the full names of fungi, a pipeline for crawlering the species names from the website was built.
 
 ##  Demo
