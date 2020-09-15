@@ -13,7 +13,10 @@
 
 The downloaded fungal genome data from [JGI](http://jgi.doe.gov/) contain only abbreviational species names.
 </br> 
-To get the full names of fungi, a pipeline for crawlering the species names from the website was built.
+To get the full names of fungi, a pipeline for crawlering the species names from the website was built.</br> 
+
+The updated script allows users to crawling the database and saving the fungal pictures on the home page for each species. 
+</br> 
 
 ##  Demo
 
@@ -30,6 +33,7 @@ The following python packages were used:
  pip install selenium 
  pip install bs4 
  pip install pandas 
+ pip install request
 ```
 
 ## Author
